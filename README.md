@@ -10,7 +10,7 @@ For me, I'm an experienced leader with experience all over the stack, but I tend
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kvernon&show_icons=true&show=discussions_started&hide=prs&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvernon&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvernon&theme=transparent&hide_progress=true&hide=asp)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently working on ...
 
