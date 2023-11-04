@@ -17,6 +17,12 @@ For me, I'm an experienced leader with experience all over the stack, but I tend
 + [rental-timeline-estimator](https://github.com/kvernon/rental-timeline-estimator/) -- UI
 + [realty-investor-timeline](https://github.com/kvernon/realty-investor-timeline) -- Library
 
+#### 💻 Packages
+
+<a href="https://www.npmjs.com/package/@cubedelement.com/civil-web" target="_blank"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kvernon&repo=civil-web&theme=transparent" /></a>
+
+<a href="https://www.npmjs.com/package/@cubedelement.com/realty-investor-timeline" target="_blank"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kvernon&repo=realty-investor-timeline&theme=transparent&show_owner=true" /></a>
+
 #### Older
 
 + [bitbucket](https://bitbucket.org/kellyvernon/workspace/repositories) -- not everything is visible there, but you might find something
