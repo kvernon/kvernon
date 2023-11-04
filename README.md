@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**kvernon/kvernon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Stats
 
-Here are some ideas to get you started:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kvernon&show_icons=true&hide=prs&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvernon&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+#### About
+
+My Personal github is to explore and capture overall ideas. 
+
+For me, I'm an experienced leader with experience all over the stack, but I tend to focus on API more. In here, I'm currently heads down examining bring a library to life through react.
+
+#### 🔭 I’m currently working on ...
+
++ [rental-timeline-estimator](https://github.com/kvernon/rental-timeline-estimator/) -- UI
++ [realty-investor-timeline](https://github.com/kvernon/realty-investor-timeline) -- Library
+
+#### Older
+
++ [bitbucket](https://bitbucket.org/kellyvernon/workspace/repositories) -- not everything is visible there, but you might find something
