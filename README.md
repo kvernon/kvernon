@@ -14,6 +14,7 @@ For me, I'm an experienced leader with experience all over the stack, but I tend
 
 #### 🔭 I’m currently working on ...
 
++ [home-in](https://github.com/kvernon/home-in) -- Real Estate API
 + [rental-timeline-estimator](https://github.com/kvernon/rental-timeline-estimator/) -- UI
 + [realty-investor-timeline](https://github.com/kvernon/realty-investor-timeline) -- Library
 
