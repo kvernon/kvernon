@@ -20,9 +20,9 @@ For me, I'm an experienced leader with experience all over the stack, but I tend
 
 #### 💻 Packages
 
-<a href="https://www.npmjs.com/package/@cubedelement.com/civil-web" target="_blank"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kvernon&repo=civil-web&theme=transparent" /></a>
+<a href="https://www.npmjs.com/package/@cubedelement.com/civil-web" target="_blank">https://www.npmjs.com/package/@cubedelement.com/civil-web</a>
 
-<a href="https://www.npmjs.com/package/@cubedelement.com/realty-investor-timeline" target="_blank"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kvernon&repo=realty-investor-timeline&theme=transparent&show_owner=true" /></a>
+<a href="https://www.npmjs.com/package/@cubedelement.com/realty-investor-timeline" target="_blank">https://www.npmjs.com/package/@cubedelement.com/realty-investor-timeline</a>
 
 #### Older
 
