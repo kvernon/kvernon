@@ -4,7 +4,7 @@
 
 My Personal github is to explore and capture overall ideas. 
 
-For me, I'm an experienced leader with experience all over the stack, but I tend to focus on API and cloud (aws) more. In here, I'm currently heads down examining bringing a realty library to life through react and a medical SaaS application to existence.
+For me, I'm an experienced leader with experience all over the stack, but I tend to focus on API and cloud (aws) more. In here, I'm currently heads down bringing a realty library to life through react and a medical SaaS application to existence.
 
 #### badges
 
